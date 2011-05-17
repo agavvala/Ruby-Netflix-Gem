@@ -1,5 +1,6 @@
 # extend the Hash to include to_param string method
 # a value string can also be a Hash
+# param-string method
 class Hash
   def parameter_string
     output_string = ''

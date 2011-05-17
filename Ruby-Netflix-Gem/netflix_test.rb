@@ -1,6 +1,7 @@
 require_relative "netflix"
 require "test/unit"
 
+# individual test cases for each netflix api
 class NetflixTest < MiniTest::Unit::TestCase
 
   def setup
