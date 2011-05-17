@@ -3,6 +3,7 @@ require "cgi"
 require "base64"
 require "hmac-sha1"               # make sure ruby-hmac gem is installed
 require 'rexml/document'
+require_relative "extras"
 
 module Netflix
   class API
@@ -62,8 +63,14 @@ module Netflix
       end
 
     public
-      def search_titles_by_people(term, start_index=0, max_results=25)
+      # Search for people by some part of their name (term)
+      def search_people(term, start_index=0, max_results=25)
         get("catalog/people", { term: term, start_index: start_index, max_results: max_results})
+      end
+
+      # Get a person details by the person/person-id URL
+      def get_person_by_id(person_id)
+        get("catalog/people/#{person_id}")
       end
 
   end
@@ -72,12 +79,3 @@ module Netflix
 end
 
 
-# extend the Hash to include to_param string method
-# a value string can also be a Hash
-class Hash
-  def parameter_string
-    output_string = ''
-    sort_by { |key, value | key} .each { |key, value| output_string += "#{key}=#{value}&" }  # create name=value strings connected by &
-    output_string.chomp!("&")
-  end
-end
