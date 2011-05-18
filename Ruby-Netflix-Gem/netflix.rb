@@ -3,6 +3,8 @@ require "cgi"
 require "base64"
 require "hmac-sha1"               # make sure ruby-hmac gem is installed
 require 'rexml/document'
+require "xml/mapping"
+require_relative "catalog_titles.rb"
 require_relative "extras"
 
 module Netflix
@@ -46,7 +48,7 @@ module Netflix
                        oauth_timestamp: nonce_timestamp,
                        oauth_nonce: nonce
                      })
-        puts parameters.parameter_string
+        #puts parameters.parameter_string
         to_sign_string = "#{method}&#{e NETFLIX_URL}#{e path}&#{e parameters.parameter_string}"
         #puts ".OAuth Base String: "+to_sign_string
         signature = Base64.encode64(HMAC::SHA1.digest("#{service_shared_secret}&", to_sign_string))
@@ -72,6 +74,12 @@ module Netflix
       def get_person_by_id(person_id)
         get("catalog/people/#{person_id}")
       end
+
+    def search_title(search_term, start_index=0, max_results=10)
+      response = get("catalog/titles", {term: search_term, start_index: start_index, max_results: max_results})
+      doc = REXML::Document.new(response.body)
+      CatalogTitles.load_from_xml(doc.root)
+    end
 
   end
 

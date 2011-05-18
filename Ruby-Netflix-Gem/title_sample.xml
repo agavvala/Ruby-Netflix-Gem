@@ -1,0 +1,351 @@
+<?xml version="1.0" standalone="yes"?>
+<catalog_titles>
+  <link href="http://api.netflix.com/catalog/titles/index" rel="http://schemas.netflix.com/catalog/titles/index"
+        title="index"></link>
+  <link href="http://api.netflix.com/catalog/titles/autocomplete"
+        rel="http://schemas.netflix.com/catalog/titles/autocomplete" title="autocomplete"></link>
+  <url_template>http://api.netflix.com/catalog/titles?{-join|&amp;|term|start_index|max_results}</url_template>
+  <number_of_results>371</number_of_results>
+  <start_index>0</start_index>
+  <results_per_page>10</results_per_page>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70067262</id>
+    <title short="Tirupati Shree Balaji: Bhakta Annamayya" regular="Tirupati Shree Balaji: Bhakta Annamayya"></title>
+    <box_art small="http://cdn-2.nflximg.com/us/boxshots/tiny/70067262.jpg"
+             medium="http://cdn-2.nflximg.com/us/boxshots/small/70067262.jpg"
+             large="http://cdn-2.nflximg.com/us/boxshots/large/70067262.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>1997</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Dramas" term="Foreign Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Musicals"
+              term="Foreign Musicals"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Bollywood" term="Bollywood"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Telugu Language"
+              term="Telugu Language"></category>
+    <runtime>8460</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>3.1</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70067262/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Tirupati_Shree_Balaji_Bhakta_Annamayya/70067262" rel="alternate"
+          title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/26213465</id>
+    <title short="Annamalai" regular="Annamalai"></title>
+    <box_art small="http://cdn-5.nflximg.com/us/boxshots/tiny/26213465.jpg"
+             medium="http://cdn-5.nflximg.com/us/boxshots/small/26213465.jpg"
+             large="http://cdn-5.nflximg.com/us/boxshots/large/26213465.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>1992</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Dramas" term="Foreign Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Romance"
+              term="Foreign Romance"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Tamil Language" term="Tamil Language"></category>
+    <runtime>9300</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>3.0</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/26213465/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Annamalai/26213465" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70122932</id>
+    <title short="Annavaram" regular="Annavaram"></title>
+    <box_art small="http://cdn-2.nflximg.com/us/boxshots/tiny/70122932.jpg"
+             medium="http://cdn-2.nflximg.com/us/boxshots/small/70122932.jpg"
+             large="http://cdn-2.nflximg.com/us/boxshots/large/70122932.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2006</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Musicals"
+              term="Foreign Musicals"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Bollywood" term="Bollywood"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Thrillers"
+              term="Foreign Thrillers"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Telugu Language"
+              term="Telugu Language"></category>
+    <runtime>8340</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>2.2</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70122932/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Annavaram/70122932" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70076028</id>
+    <title short="Aanandam" regular="Aanandam"></title>
+    <box_art small="http://cdn-8.nflximg.com/us/boxshots/tiny/70076028.jpg"
+             medium="http://cdn-8.nflximg.com/us/boxshots/small/70076028.jpg"
+             large="http://cdn-8.nflximg.com/us/boxshots/large/70076028.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2001</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Musicals"
+              term="Foreign Musicals"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Bollywood" term="Bollywood"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Dramas" term="Foreign Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Tamil Language" term="Tamil Language"></category>
+    <runtime>9300</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>2.8</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70076028/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Aanandam/70076028" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70019617</id>
+    <title short="Annahat" regular="Annahat"></title>
+    <box_art small="http://cdn-7.nflximg.com/us/boxshots/tiny/70019617.jpg"
+             medium="http://cdn-7.nflximg.com/us/boxshots/small/70019617.jpg"
+             large="http://cdn-7.nflximg.com/us/boxshots/large/70019617.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2004</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Musicals"
+              term="Foreign Musicals"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Bollywood" term="Bollywood"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Dramas" term="Foreign Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Romance"
+              term="Foreign Romance"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Hindi Language" term="Hindi Language"></category>
+    <runtime>4920</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>2.7</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70019617/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Annahat/70019617" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/60034740</id>
+    <title short="Aanjaneya" regular="Aanjaneya"></title>
+    <box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/60034740.jpg"
+             medium="http://cdn-0.nflximg.com/us/boxshots/small/60034740.jpg"
+             large="http://cdn-0.nflximg.com/us/boxshots/large/60034740.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/60034740/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2004</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Dramas" term="Foreign Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Romance"
+              term="Foreign Romance"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Tamil Language" term="Tamil Language"></category>
+    <runtime>10440</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/60034740/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/60034740/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/60034740/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/60034740/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>2.0</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/60034740/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Aanjaneya/60034740" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/17719693</id>
+    <title short="Anjaana" regular="Anjaana"></title>
+    <box_art small="http://cdn-3.nflximg.com/us/boxshots/tiny/17719693.jpg"
+             medium="http://cdn-3.nflximg.com/us/boxshots/small/17719693.jpg"
+             large="http://cdn-3.nflximg.com/us/boxshots/large/17719693.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>1969</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Classic Dramas"
+              term="Foreign Classic Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Classics"
+              term="Foreign Classics"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Hindi Language" term="Hindi Language"></category>
+    <runtime>9180</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>1.9</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/17719693/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Anjaana/17719693" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70154900</id>
+    <title short="Anjaana Anjaani" regular="Anjaana Anjaani"></title>
+    <box_art small="http://cdn-0.nflximg.com/us/boxshots/tiny/70154900.jpg"
+             medium="http://cdn-0.nflximg.com/us/boxshots/small/70154900.jpg"
+             large="http://cdn-0.nflximg.com/us/boxshots/large/70154900.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2010</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign" term="Foreign"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Dramas" term="Foreign Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="India" term="India"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Bollywood" term="Bollywood"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Hindi Language" term="Hindi Language"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Foreign Musicals"
+              term="Foreign Musicals"></category>
+    <runtime>9300</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>3.3</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70154900/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Anjaana_Anjaani/70154900" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70101693</id>
+    <title short="Miracle at St. Anna" regular="Miracle at St. Anna"></title>
+    <box_art small="http://cdn-3.nflximg.com/us/boxshots/tiny/70101693.jpg"
+             medium="http://cdn-3.nflximg.com/us/boxshots/small/70101693.jpg"
+             large="http://cdn-3.nflximg.com/us/boxshots/large/70101693.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2008</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="R" term="R"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Drama" term="Drama"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Military &amp; War Dramas"
+              term="Military &amp; War Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="African-American Dramas"
+              term="African-American Dramas"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Dramas Based on the Book"
+              term="Dramas Based on the Book"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Dramas Based on Contemporary Literature"
+              term="Dramas Based on Contemporary Literature"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Period Pieces" term="Period Pieces"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="20th Century Period Pieces"
+              term="20th Century Period Pieces"></category>
+    <runtime>9960</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>3.5</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70101693/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Miracle_at_St._Anna/70101693" rel="alternate" title="web page"></link>
+  </catalog_title>
+  <catalog_title>
+    <id>http://api.netflix.com/catalog/titles/movies/70044505</id>
+    <title short="Kofi Annan: Center of the Storm" regular="Kofi Annan: Center of the Storm"></title>
+    <box_art small="http://cdn-5.nflximg.com/us/boxshots/tiny/70044505.jpg"
+             medium="http://cdn-5.nflximg.com/us/boxshots/small/70044505.jpg"
+             large="http://cdn-5.nflximg.com/us/boxshots/large/70044505.jpg"></box_art>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/synopsis"
+          rel="http://schemas.netflix.com/catalog/titles/synopsis" title="synopsis"></link>
+    <release_year>2003</release_year>
+    <category scheme="http://api.netflix.com/categories/mpaa_ratings" label="NR" term="NR"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Documentary" term="Documentary"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="TV Documentaries"
+              term="TV Documentaries"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Political Documentaries"
+              term="Political Documentaries"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="Biographical Documentaries"
+              term="Biographical Documentaries"></category>
+    <category scheme="http://api.netflix.com/categories/genres" label="TV War &amp; Politics"
+              term="TV War &amp; Politics"></category>
+    <runtime>5400</runtime>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/cast"
+          rel="http://schemas.netflix.com/catalog/people.cast" title="cast"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/directors"
+          rel="http://schemas.netflix.com/catalog/people.directors" title="directors"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/format_availability"
+          rel="http://schemas.netflix.com/catalog/titles/format_availability" title="formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/screen_formats"
+          rel="http://schemas.netflix.com/catalog/titles/screen_formats" title="screen formats"></link>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/languages_and_audio"
+          rel="http://schemas.netflix.com/catalog/titles/languages_and_audio" title="languages and audio"></link>
+    <average_rating>2.3</average_rating>
+    <link href="http://api.netflix.com/catalog/titles/movies/70044505/similars"
+          rel="http://schemas.netflix.com/catalog/titles.similars" title="similars"></link>
+    <link href="http://www.netflix.com/Movie/Kofi_Annan_Center_of_the_Storm/70044505" rel="alternate"
+          title="web page"></link>
+  </catalog_title>
+</catalog_titles> 
