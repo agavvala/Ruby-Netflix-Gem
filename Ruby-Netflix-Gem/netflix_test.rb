@@ -5,7 +5,7 @@ require "test/unit"
 class NetflixTest < MiniTest::Unit::TestCase
 
   def setup
-    @netflix = Netflix::API.new("utqwghusfjzfqnybzrqyxq89", "yfVMDGQPjW")
+    @netflix = Netflix::API.new("abc", "xyz")
   end
 
   def test_search_people
