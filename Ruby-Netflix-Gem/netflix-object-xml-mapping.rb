@@ -75,3 +75,27 @@ class Link
   text_node :title, "@title"
 end
 
+#  forward declarations
+class Person; end
+
+class People
+  include XML::Mapping
+
+  text_node :number_of_results, "number_of_results"
+  text_node :start_index, "start_index"
+  text_node :results_per_page, "results_per_page"
+  array_node :persons, "person", :class => Person
+
+end
+
+class Person
+  include XML::Mapping
+
+  text_node :id, "id"
+  text_node :name, "name"
+  text_node :bio, "bio/text()", :default_value => nil
+  object_node :filmography_link,  "link[@title='filmography']", :class => Link, :default_value => nil
+  object_node :web_link,  "link[@title='webpage']", :class => Link , :default_value => nil
+end
+
+
