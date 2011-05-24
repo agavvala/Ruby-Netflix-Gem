@@ -78,7 +78,7 @@ module Netflix
     public
     # Search for people by some part of their name (term)
     def search_people(term, start_index=0, max_results=25)
-      get_object_list "CatalogTitles", get("catalog/people", {term: term, start_index: start_index, max_results: max_results})
+      get_object_list "People", get("catalog/people", {term: term, start_index: start_index, max_results: max_results})
     end
 
     # Get a person details by the person/person-id URL
@@ -87,7 +87,7 @@ module Netflix
     end
 
     def search_title(search_term, start_index=0, max_results=10)
-      get_object_list "People", get("catalog/titles", {term: search_term, start_index: start_index, max_results: max_results})
+      get_object_list "CatalogTitles", get("catalog/titles", {term: search_term, start_index: start_index, max_results: max_results})
     end
 
   end
